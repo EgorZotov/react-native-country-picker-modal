@@ -24,6 +24,7 @@ const newcountries = countries
   .map(
     ({
       cca2,
+      cca3,
       currency,
       callingCode,
       region,
@@ -33,6 +34,7 @@ const newcountries = countries
     }) => ({
       [cca2]: {
         currency,
+        cca3,
         callingCode,
         region,
         subregion,
