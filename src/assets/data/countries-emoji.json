@@ -1,6 +1,7 @@
 {
   "AF": {
     "currency": ["AFN"],
+    "cca3": "AFG",
     "callingCode": ["93"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -29,6 +30,7 @@
   },
   "AL": {
     "currency": ["ALL"],
+    "cca3": "ALB",
     "callingCode": ["355"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -57,6 +59,7 @@
   },
   "DZ": {
     "currency": ["DZD"],
+    "cca3": "DZA",
     "callingCode": ["213"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -85,6 +88,7 @@
   },
   "AS": {
     "currency": ["USD"],
+    "cca3": "ASM",
     "callingCode": ["1684"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -112,6 +116,7 @@
   },
   "AD": {
     "currency": ["EUR"],
+    "cca3": "AND",
     "callingCode": ["376"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -140,6 +145,7 @@
   },
   "AO": {
     "currency": ["AOA"],
+    "cca3": "AGO",
     "callingCode": ["244"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -168,6 +174,7 @@
   },
   "AI": {
     "currency": ["XCD"],
+    "cca3": "AIA",
     "callingCode": ["1264"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -195,6 +202,7 @@
   },
   "AQ": {
     "currency": [],
+    "cca3": "ATA",
     "callingCode": [],
     "region": "Antarctic",
     "subregion": "",
@@ -223,6 +231,7 @@
   },
   "AG": {
     "currency": ["XCD"],
+    "cca3": "ATG",
     "callingCode": ["1268"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -251,6 +260,7 @@
   },
   "AR": {
     "currency": ["ARS"],
+    "cca3": "ARG",
     "callingCode": ["54"],
     "region": "Americas",
     "subregion": "South America",
@@ -279,6 +289,7 @@
   },
   "AM": {
     "currency": ["AMD"],
+    "cca3": "ARM",
     "callingCode": ["374"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -307,6 +318,7 @@
   },
   "AW": {
     "currency": ["AWG"],
+    "cca3": "ABW",
     "callingCode": ["297"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -334,6 +346,7 @@
   },
   "AU": {
     "currency": ["AUD"],
+    "cca3": "AUS",
     "callingCode": ["61"],
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
@@ -362,6 +375,7 @@
   },
   "AT": {
     "currency": ["EUR"],
+    "cca3": "AUT",
     "callingCode": ["43"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -390,6 +404,7 @@
   },
   "AZ": {
     "currency": ["AZN"],
+    "cca3": "AZE",
     "callingCode": ["994"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -418,6 +433,7 @@
   },
   "BS": {
     "currency": ["BSD"],
+    "cca3": "BHS",
     "callingCode": ["1242"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -446,6 +462,7 @@
   },
   "BH": {
     "currency": ["BHD"],
+    "cca3": "BHR",
     "callingCode": ["973"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -474,6 +491,7 @@
   },
   "BD": {
     "currency": ["BDT"],
+    "cca3": "BGD",
     "callingCode": ["880"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -502,6 +520,7 @@
   },
   "BB": {
     "currency": ["BBD"],
+    "cca3": "BRB",
     "callingCode": ["1246"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -530,6 +549,7 @@
   },
   "BY": {
     "currency": ["BYN"],
+    "cca3": "BLR",
     "callingCode": ["375"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -558,6 +578,7 @@
   },
   "BE": {
     "currency": ["EUR"],
+    "cca3": "BEL",
     "callingCode": ["32"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -586,6 +607,7 @@
   },
   "BZ": {
     "currency": ["BZD"],
+    "cca3": "BLZ",
     "callingCode": ["501"],
     "region": "Americas",
     "subregion": "Central America",
@@ -614,6 +636,7 @@
   },
   "BJ": {
     "currency": ["XOF"],
+    "cca3": "BEN",
     "callingCode": ["229"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -642,6 +665,7 @@
   },
   "BM": {
     "currency": ["BMD"],
+    "cca3": "BMU",
     "callingCode": ["1441"],
     "region": "Americas",
     "subregion": "North America",
@@ -670,6 +694,7 @@
   },
   "BT": {
     "currency": ["BTN", "INR"],
+    "cca3": "BTN",
     "callingCode": ["975"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -698,6 +723,7 @@
   },
   "BO": {
     "currency": ["BOB"],
+    "cca3": "BOL",
     "callingCode": ["591"],
     "region": "Americas",
     "subregion": "South America",
@@ -726,6 +752,7 @@
   },
   "BA": {
     "currency": ["BAM"],
+    "cca3": "BIH",
     "callingCode": ["387"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -754,6 +781,7 @@
   },
   "BW": {
     "currency": ["BWP"],
+    "cca3": "BWA",
     "callingCode": ["267"],
     "region": "Africa",
     "subregion": "Southern Africa",
@@ -781,6 +809,7 @@
   },
   "BV": {
     "currency": ["NOK"],
+    "cca3": "BVT",
     "callingCode": [],
     "region": "Antarctic",
     "subregion": "",
@@ -808,6 +837,7 @@
   },
   "BR": {
     "currency": ["BRL"],
+    "cca3": "BRA",
     "callingCode": ["55"],
     "region": "Americas",
     "subregion": "South America",
@@ -836,6 +866,7 @@
   },
   "IO": {
     "currency": ["USD"],
+    "cca3": "IOT",
     "callingCode": ["246"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -864,6 +895,7 @@
   },
   "VG": {
     "currency": ["USD"],
+    "cca3": "VGB",
     "callingCode": ["1284"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -891,6 +923,7 @@
   },
   "BN": {
     "currency": ["BND"],
+    "cca3": "BRN",
     "callingCode": ["673"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -919,6 +952,7 @@
   },
   "BG": {
     "currency": ["BGN"],
+    "cca3": "BGR",
     "callingCode": ["359"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -947,6 +981,7 @@
   },
   "BF": {
     "currency": ["XOF"],
+    "cca3": "BFA",
     "callingCode": ["226"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -975,6 +1010,7 @@
   },
   "BI": {
     "currency": ["BIF"],
+    "cca3": "BDI",
     "callingCode": ["257"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -1003,6 +1039,7 @@
   },
   "KH": {
     "currency": ["KHR"],
+    "cca3": "KHM",
     "callingCode": ["855"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -1031,6 +1068,7 @@
   },
   "CM": {
     "currency": ["XAF"],
+    "cca3": "CMR",
     "callingCode": ["237"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -1059,6 +1097,7 @@
   },
   "CA": {
     "currency": ["CAD"],
+    "cca3": "CAN",
     "callingCode": ["1"],
     "region": "Americas",
     "subregion": "North America",
@@ -1087,6 +1126,7 @@
   },
   "CV": {
     "currency": ["CVE"],
+    "cca3": "CPV",
     "callingCode": ["238"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -1115,6 +1155,7 @@
   },
   "BQ": {
     "currency": ["USD"],
+    "cca3": "BES",
     "callingCode": ["599"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -1142,6 +1183,7 @@
   },
   "KY": {
     "currency": ["KYD"],
+    "cca3": "CYM",
     "callingCode": ["1345"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -1170,6 +1212,7 @@
   },
   "CF": {
     "currency": ["XAF"],
+    "cca3": "CAF",
     "callingCode": ["236"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -1198,6 +1241,7 @@
   },
   "TD": {
     "currency": ["XAF"],
+    "cca3": "TCD",
     "callingCode": ["235"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -1226,6 +1270,7 @@
   },
   "CL": {
     "currency": ["CLP"],
+    "cca3": "CHL",
     "callingCode": ["56"],
     "region": "Americas",
     "subregion": "South America",
@@ -1254,6 +1299,7 @@
   },
   "CN": {
     "currency": ["CNY"],
+    "cca3": "CHN",
     "callingCode": ["86"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -1281,6 +1327,7 @@
   },
   "CX": {
     "currency": ["AUD"],
+    "cca3": "CXR",
     "callingCode": ["61"],
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
@@ -1309,6 +1356,7 @@
   },
   "CC": {
     "currency": ["AUD"],
+    "cca3": "CCK",
     "callingCode": ["61"],
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
@@ -1337,6 +1385,7 @@
   },
   "CO": {
     "currency": ["COP"],
+    "cca3": "COL",
     "callingCode": ["57"],
     "region": "Americas",
     "subregion": "South America",
@@ -1365,6 +1414,7 @@
   },
   "KM": {
     "currency": ["KMF"],
+    "cca3": "COM",
     "callingCode": ["269"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -1393,6 +1443,7 @@
   },
   "CK": {
     "currency": ["NZD", "CKD"],
+    "cca3": "COK",
     "callingCode": ["682"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -1421,6 +1472,7 @@
   },
   "CR": {
     "currency": ["CRC"],
+    "cca3": "CRI",
     "callingCode": ["506"],
     "region": "Americas",
     "subregion": "Central America",
@@ -1449,6 +1501,7 @@
   },
   "HR": {
     "currency": ["HRK"],
+    "cca3": "HRV",
     "callingCode": ["385"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -1477,6 +1530,7 @@
   },
   "CU": {
     "currency": ["CUC", "CUP"],
+    "cca3": "CUB",
     "callingCode": ["53"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -1505,6 +1559,7 @@
   },
   "CW": {
     "currency": ["ANG"],
+    "cca3": "CUW",
     "callingCode": ["5999"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -1529,6 +1584,7 @@
   },
   "CY": {
     "currency": ["EUR"],
+    "cca3": "CYP",
     "callingCode": ["357"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -1557,6 +1613,7 @@
   },
   "CZ": {
     "currency": ["CZK"],
+    "cca3": "CZE",
     "callingCode": ["420"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -1585,6 +1642,7 @@
   },
   "CD": {
     "currency": ["CDF"],
+    "cca3": "COD",
     "callingCode": ["243"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -1613,6 +1671,7 @@
   },
   "DK": {
     "currency": ["DKK"],
+    "cca3": "DNK",
     "callingCode": ["45"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -1641,6 +1700,7 @@
   },
   "DJ": {
     "currency": ["DJF"],
+    "cca3": "DJI",
     "callingCode": ["253"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -1669,6 +1729,7 @@
   },
   "DM": {
     "currency": ["XCD"],
+    "cca3": "DMA",
     "callingCode": ["1767"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -1697,6 +1758,7 @@
   },
   "DO": {
     "currency": ["DOP"],
+    "cca3": "DOM",
     "callingCode": ["1809", "1829", "1849"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -1725,6 +1787,7 @@
   },
   "EC": {
     "currency": ["USD"],
+    "cca3": "ECU",
     "callingCode": ["593"],
     "region": "Americas",
     "subregion": "South America",
@@ -1753,6 +1816,7 @@
   },
   "EG": {
     "currency": ["EGP"],
+    "cca3": "EGY",
     "callingCode": ["20"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -1781,6 +1845,7 @@
   },
   "SV": {
     "currency": ["SVC", "USD"],
+    "cca3": "SLV",
     "callingCode": ["503"],
     "region": "Americas",
     "subregion": "Central America",
@@ -1809,6 +1874,7 @@
   },
   "GQ": {
     "currency": ["XAF"],
+    "cca3": "GNQ",
     "callingCode": ["240"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -1837,6 +1903,7 @@
   },
   "ER": {
     "currency": ["ERN"],
+    "cca3": "ERI",
     "callingCode": ["291"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -1865,6 +1932,7 @@
   },
   "EE": {
     "currency": ["EUR"],
+    "cca3": "EST",
     "callingCode": ["372"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -1893,6 +1961,7 @@
   },
   "SZ": {
     "currency": ["SZL"],
+    "cca3": "SWZ",
     "callingCode": ["268"],
     "region": "Africa",
     "subregion": "Southern Africa",
@@ -1920,6 +1989,7 @@
   },
   "ET": {
     "currency": ["ETB"],
+    "cca3": "ETH",
     "callingCode": ["251"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -1948,6 +2018,7 @@
   },
   "FK": {
     "currency": ["FKP"],
+    "cca3": "FLK",
     "callingCode": ["500"],
     "region": "Americas",
     "subregion": "South America",
@@ -1975,6 +2046,7 @@
   },
   "FO": {
     "currency": ["DKK"],
+    "cca3": "FRO",
     "callingCode": ["298"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -2002,6 +2074,7 @@
   },
   "FJ": {
     "currency": ["FJD"],
+    "cca3": "FJI",
     "callingCode": ["679"],
     "region": "Oceania",
     "subregion": "Melanesia",
@@ -2029,6 +2102,7 @@
   },
   "FI": {
     "currency": ["EUR"],
+    "cca3": "FIN",
     "callingCode": ["358"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -2056,6 +2130,7 @@
   },
   "FR": {
     "currency": ["EUR"],
+    "cca3": "FRA",
     "callingCode": ["33"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -2083,6 +2158,7 @@
   },
   "GF": {
     "currency": ["EUR"],
+    "cca3": "GUF",
     "callingCode": ["594"],
     "region": "Americas",
     "subregion": "South America",
@@ -2110,6 +2186,7 @@
   },
   "PF": {
     "currency": ["XPF"],
+    "cca3": "PYF",
     "callingCode": ["689"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -2137,6 +2214,7 @@
   },
   "TF": {
     "currency": ["EUR"],
+    "cca3": "ATF",
     "callingCode": [],
     "region": "Antarctic",
     "subregion": "",
@@ -2164,6 +2242,7 @@
   },
   "GA": {
     "currency": ["XAF"],
+    "cca3": "GAB",
     "callingCode": ["241"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -2191,6 +2270,7 @@
   },
   "GM": {
     "currency": ["GMD"],
+    "cca3": "GMB",
     "callingCode": ["220"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -2218,6 +2298,7 @@
   },
   "GE": {
     "currency": ["GEL"],
+    "cca3": "GEO",
     "callingCode": ["995"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -2245,6 +2326,7 @@
   },
   "DE": {
     "currency": ["EUR"],
+    "cca3": "DEU",
     "callingCode": ["49"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -2272,6 +2354,7 @@
   },
   "GH": {
     "currency": ["GHS"],
+    "cca3": "GHA",
     "callingCode": ["233"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -2299,6 +2382,7 @@
   },
   "GI": {
     "currency": ["GIP"],
+    "cca3": "GIB",
     "callingCode": ["350"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -2326,6 +2410,7 @@
   },
   "GR": {
     "currency": ["EUR"],
+    "cca3": "GRC",
     "callingCode": ["30"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -2353,6 +2438,7 @@
   },
   "GL": {
     "currency": ["DKK"],
+    "cca3": "GRL",
     "callingCode": ["299"],
     "region": "Americas",
     "subregion": "North America",
@@ -2380,6 +2466,7 @@
   },
   "GD": {
     "currency": ["XCD"],
+    "cca3": "GRD",
     "callingCode": ["1473"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -2407,6 +2494,7 @@
   },
   "GP": {
     "currency": ["EUR"],
+    "cca3": "GLP",
     "callingCode": ["590"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -2434,6 +2522,7 @@
   },
   "GU": {
     "currency": ["USD"],
+    "cca3": "GUM",
     "callingCode": ["1671"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -2461,6 +2550,7 @@
   },
   "GT": {
     "currency": ["GTQ"],
+    "cca3": "GTM",
     "callingCode": ["502"],
     "region": "Americas",
     "subregion": "Central America",
@@ -2488,6 +2578,7 @@
   },
   "GG": {
     "currency": ["GBP"],
+    "cca3": "GGY",
     "callingCode": ["44"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -2515,6 +2606,7 @@
   },
   "GN": {
     "currency": ["GNF"],
+    "cca3": "GIN",
     "callingCode": ["224"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -2542,6 +2634,7 @@
   },
   "GW": {
     "currency": ["XOF"],
+    "cca3": "GNB",
     "callingCode": ["245"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -2569,6 +2662,7 @@
   },
   "GY": {
     "currency": ["GYD"],
+    "cca3": "GUY",
     "callingCode": ["592"],
     "region": "Americas",
     "subregion": "South America",
@@ -2596,6 +2690,7 @@
   },
   "HT": {
     "currency": ["HTG", "USD"],
+    "cca3": "HTI",
     "callingCode": ["509"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -2623,6 +2718,7 @@
   },
   "HM": {
     "currency": ["AUD"],
+    "cca3": "HMD",
     "callingCode": [],
     "region": "Antarctic",
     "subregion": "",
@@ -2650,6 +2746,7 @@
   },
   "HN": {
     "currency": ["HNL"],
+    "cca3": "HND",
     "callingCode": ["504"],
     "region": "Americas",
     "subregion": "Central America",
@@ -2677,6 +2774,7 @@
   },
   "HK": {
     "currency": ["HKD"],
+    "cca3": "HKG",
     "callingCode": ["852"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -2703,6 +2801,7 @@
   },
   "HU": {
     "currency": ["HUF"],
+    "cca3": "HUN",
     "callingCode": ["36"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -2730,6 +2829,7 @@
   },
   "IS": {
     "currency": ["ISK"],
+    "cca3": "ISL",
     "callingCode": ["354"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -2757,6 +2857,7 @@
   },
   "IN": {
     "currency": ["INR"],
+    "cca3": "IND",
     "callingCode": ["91"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -2784,6 +2885,7 @@
   },
   "ID": {
     "currency": ["IDR"],
+    "cca3": "IDN",
     "callingCode": ["62"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -2811,6 +2913,7 @@
   },
   "IR": {
     "currency": ["IRR"],
+    "cca3": "IRN",
     "callingCode": ["98"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -2838,6 +2941,7 @@
   },
   "IQ": {
     "currency": ["IQD"],
+    "cca3": "IRQ",
     "callingCode": ["964"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -2865,6 +2969,7 @@
   },
   "IE": {
     "currency": ["EUR"],
+    "cca3": "IRL",
     "callingCode": ["353"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -2892,6 +2997,7 @@
   },
   "IM": {
     "currency": ["GBP"],
+    "cca3": "IMN",
     "callingCode": ["44"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -2919,6 +3025,7 @@
   },
   "IL": {
     "currency": ["ILS"],
+    "cca3": "ISR",
     "callingCode": ["972"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -2946,6 +3053,7 @@
   },
   "IT": {
     "currency": ["EUR"],
+    "cca3": "ITA",
     "callingCode": ["39"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -2973,6 +3081,7 @@
   },
   "CI": {
     "currency": ["XOF"],
+    "cca3": "CIV",
     "callingCode": ["225"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -3000,6 +3109,7 @@
   },
   "JM": {
     "currency": ["JMD"],
+    "cca3": "JAM",
     "callingCode": ["1876"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -3027,6 +3137,7 @@
   },
   "JP": {
     "currency": ["JPY"],
+    "cca3": "JPN",
     "callingCode": ["81"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -3054,6 +3165,7 @@
   },
   "JE": {
     "currency": ["GBP"],
+    "cca3": "JEY",
     "callingCode": ["44"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -3081,6 +3193,7 @@
   },
   "JO": {
     "currency": ["JOD"],
+    "cca3": "JOR",
     "callingCode": ["962"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -3108,6 +3221,7 @@
   },
   "KZ": {
     "currency": ["KZT"],
+    "cca3": "KAZ",
     "callingCode": ["7"],
     "region": "Asia",
     "subregion": "Central Asia",
@@ -3135,6 +3249,7 @@
   },
   "KE": {
     "currency": ["KES"],
+    "cca3": "KEN",
     "callingCode": ["254"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -3162,6 +3277,7 @@
   },
   "KI": {
     "currency": ["AUD"],
+    "cca3": "KIR",
     "callingCode": ["686"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -3189,6 +3305,7 @@
   },
   "XK": {
     "currency": ["EUR"],
+    "cca3": "UNK",
     "callingCode": ["383"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -3215,6 +3332,7 @@
   },
   "KW": {
     "currency": ["KWD"],
+    "cca3": "KWT",
     "callingCode": ["965"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -3242,6 +3360,7 @@
   },
   "KG": {
     "currency": ["KGS"],
+    "cca3": "KGZ",
     "callingCode": ["996"],
     "region": "Asia",
     "subregion": "Central Asia",
@@ -3269,6 +3388,7 @@
   },
   "LA": {
     "currency": ["LAK"],
+    "cca3": "LAO",
     "callingCode": ["856"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -3296,6 +3416,7 @@
   },
   "LV": {
     "currency": ["EUR"],
+    "cca3": "LVA",
     "callingCode": ["371"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -3323,6 +3444,7 @@
   },
   "LB": {
     "currency": ["LBP"],
+    "cca3": "LBN",
     "callingCode": ["961"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -3350,6 +3472,7 @@
   },
   "LS": {
     "currency": ["LSL", "ZAR"],
+    "cca3": "LSO",
     "callingCode": ["266"],
     "region": "Africa",
     "subregion": "Southern Africa",
@@ -3377,6 +3500,7 @@
   },
   "LR": {
     "currency": ["LRD"],
+    "cca3": "LBR",
     "callingCode": ["231"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -3404,6 +3528,7 @@
   },
   "LY": {
     "currency": ["LYD"],
+    "cca3": "LBY",
     "callingCode": ["218"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -3431,6 +3556,7 @@
   },
   "LI": {
     "currency": ["CHF"],
+    "cca3": "LIE",
     "callingCode": ["423"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -3458,6 +3584,7 @@
   },
   "LT": {
     "currency": ["EUR"],
+    "cca3": "LTU",
     "callingCode": ["370"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -3485,6 +3612,7 @@
   },
   "LU": {
     "currency": ["EUR"],
+    "cca3": "LUX",
     "callingCode": ["352"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -3512,6 +3640,7 @@
   },
   "MO": {
     "currency": ["MOP"],
+    "cca3": "MAC",
     "callingCode": ["853"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -3538,6 +3667,7 @@
   },
   "MK": {
     "currency": ["MKD"],
+    "cca3": "MKD",
     "callingCode": ["389"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -3565,6 +3695,7 @@
   },
   "MG": {
     "currency": ["MGA"],
+    "cca3": "MDG",
     "callingCode": ["261"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -3592,6 +3723,7 @@
   },
   "MW": {
     "currency": ["MWK"],
+    "cca3": "MWI",
     "callingCode": ["265"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -3619,6 +3751,7 @@
   },
   "MY": {
     "currency": ["MYR"],
+    "cca3": "MYS",
     "callingCode": ["60"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -3646,6 +3779,7 @@
   },
   "MV": {
     "currency": ["MVR"],
+    "cca3": "MDV",
     "callingCode": ["960"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -3673,6 +3807,7 @@
   },
   "ML": {
     "currency": ["XOF"],
+    "cca3": "MLI",
     "callingCode": ["223"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -3700,6 +3835,7 @@
   },
   "MT": {
     "currency": ["EUR"],
+    "cca3": "MLT",
     "callingCode": ["356"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -3727,6 +3863,7 @@
   },
   "MH": {
     "currency": ["USD"],
+    "cca3": "MHL",
     "callingCode": ["692"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -3754,6 +3891,7 @@
   },
   "MQ": {
     "currency": ["EUR"],
+    "cca3": "MTQ",
     "callingCode": ["596"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -3781,6 +3919,7 @@
   },
   "MR": {
     "currency": ["MRO"],
+    "cca3": "MRT",
     "callingCode": ["222"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -3808,6 +3947,7 @@
   },
   "MU": {
     "currency": ["MUR"],
+    "cca3": "MUS",
     "callingCode": ["230"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -3835,6 +3975,7 @@
   },
   "YT": {
     "currency": ["EUR"],
+    "cca3": "MYT",
     "callingCode": ["262"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -3862,6 +4003,7 @@
   },
   "MX": {
     "currency": ["MXN"],
+    "cca3": "MEX",
     "callingCode": ["52"],
     "region": "Americas",
     "subregion": "North America",
@@ -3889,6 +4031,7 @@
   },
   "FM": {
     "currency": ["USD"],
+    "cca3": "FSM",
     "callingCode": ["691"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -3916,6 +4059,7 @@
   },
   "MD": {
     "currency": ["MDL"],
+    "cca3": "MDA",
     "callingCode": ["373"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -3943,6 +4087,7 @@
   },
   "MC": {
     "currency": ["EUR"],
+    "cca3": "MCO",
     "callingCode": ["377"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -3970,6 +4115,7 @@
   },
   "MN": {
     "currency": ["MNT"],
+    "cca3": "MNG",
     "callingCode": ["976"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -3997,6 +4143,7 @@
   },
   "ME": {
     "currency": ["EUR"],
+    "cca3": "MNE",
     "callingCode": ["382"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -4024,6 +4171,7 @@
   },
   "MS": {
     "currency": ["XCD"],
+    "cca3": "MSR",
     "callingCode": ["1664"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -4051,6 +4199,7 @@
   },
   "MA": {
     "currency": ["MAD"],
+    "cca3": "MAR",
     "callingCode": ["212"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -4078,6 +4227,7 @@
   },
   "MZ": {
     "currency": ["MZN"],
+    "cca3": "MOZ",
     "callingCode": ["258"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -4105,6 +4255,7 @@
   },
   "MM": {
     "currency": ["MMK"],
+    "cca3": "MMR",
     "callingCode": ["95"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -4132,6 +4283,7 @@
   },
   "NA": {
     "currency": ["NAD", "ZAR"],
+    "cca3": "NAM",
     "callingCode": ["264"],
     "region": "Africa",
     "subregion": "Southern Africa",
@@ -4159,6 +4311,7 @@
   },
   "NR": {
     "currency": ["AUD"],
+    "cca3": "NRU",
     "callingCode": ["674"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -4186,6 +4339,7 @@
   },
   "NP": {
     "currency": ["NPR"],
+    "cca3": "NPL",
     "callingCode": ["977"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -4213,6 +4367,7 @@
   },
   "NL": {
     "currency": ["EUR"],
+    "cca3": "NLD",
     "callingCode": ["31"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -4240,6 +4395,7 @@
   },
   "NC": {
     "currency": ["XPF"],
+    "cca3": "NCL",
     "callingCode": ["687"],
     "region": "Oceania",
     "subregion": "Melanesia",
@@ -4267,6 +4423,7 @@
   },
   "NZ": {
     "currency": ["NZD"],
+    "cca3": "NZL",
     "callingCode": ["64"],
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
@@ -4294,6 +4451,7 @@
   },
   "NI": {
     "currency": ["NIO"],
+    "cca3": "NIC",
     "callingCode": ["505"],
     "region": "Americas",
     "subregion": "Central America",
@@ -4321,6 +4479,7 @@
   },
   "NE": {
     "currency": ["XOF"],
+    "cca3": "NER",
     "callingCode": ["227"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -4348,6 +4507,7 @@
   },
   "NG": {
     "currency": ["NGN"],
+    "cca3": "NGA",
     "callingCode": ["234"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -4375,6 +4535,7 @@
   },
   "NU": {
     "currency": ["NZD"],
+    "cca3": "NIU",
     "callingCode": ["683"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -4402,6 +4563,7 @@
   },
   "NF": {
     "currency": ["AUD"],
+    "cca3": "NFK",
     "callingCode": ["672"],
     "region": "Oceania",
     "subregion": "Australia and New Zealand",
@@ -4429,6 +4591,7 @@
   },
   "KP": {
     "currency": ["KPW"],
+    "cca3": "PRK",
     "callingCode": ["850"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -4456,6 +4619,7 @@
   },
   "MP": {
     "currency": ["USD"],
+    "cca3": "MNP",
     "callingCode": ["1670"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -4483,6 +4647,7 @@
   },
   "NO": {
     "currency": ["NOK"],
+    "cca3": "NOR",
     "callingCode": ["47"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -4510,6 +4675,7 @@
   },
   "OM": {
     "currency": ["OMR"],
+    "cca3": "OMN",
     "callingCode": ["968"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -4537,6 +4703,7 @@
   },
   "PK": {
     "currency": ["PKR"],
+    "cca3": "PAK",
     "callingCode": ["92"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -4564,6 +4731,7 @@
   },
   "PW": {
     "currency": ["USD"],
+    "cca3": "PLW",
     "callingCode": ["680"],
     "region": "Oceania",
     "subregion": "Micronesia",
@@ -4591,6 +4759,7 @@
   },
   "PS": {
     "currency": ["ILS"],
+    "cca3": "PSE",
     "callingCode": ["970"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -4618,6 +4787,7 @@
   },
   "PA": {
     "currency": ["PAB", "USD"],
+    "cca3": "PAN",
     "callingCode": ["507"],
     "region": "Americas",
     "subregion": "Central America",
@@ -4645,6 +4815,7 @@
   },
   "PG": {
     "currency": ["PGK"],
+    "cca3": "PNG",
     "callingCode": ["675"],
     "region": "Oceania",
     "subregion": "Melanesia",
@@ -4672,6 +4843,7 @@
   },
   "PY": {
     "currency": ["PYG"],
+    "cca3": "PRY",
     "callingCode": ["595"],
     "region": "Americas",
     "subregion": "South America",
@@ -4699,6 +4871,7 @@
   },
   "PE": {
     "currency": ["PEN"],
+    "cca3": "PER",
     "callingCode": ["51"],
     "region": "Americas",
     "subregion": "South America",
@@ -4726,6 +4899,7 @@
   },
   "PH": {
     "currency": ["PHP"],
+    "cca3": "PHL",
     "callingCode": ["63"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -4753,6 +4927,7 @@
   },
   "PN": {
     "currency": ["NZD"],
+    "cca3": "PCN",
     "callingCode": ["64"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -4780,6 +4955,7 @@
   },
   "PL": {
     "currency": ["PLN"],
+    "cca3": "POL",
     "callingCode": ["48"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -4807,6 +4983,7 @@
   },
   "PT": {
     "currency": ["EUR"],
+    "cca3": "PRT",
     "callingCode": ["351"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -4834,6 +5011,7 @@
   },
   "PR": {
     "currency": ["USD"],
+    "cca3": "PRI",
     "callingCode": ["1787", "1939"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -4861,6 +5039,7 @@
   },
   "QA": {
     "currency": ["QAR"],
+    "cca3": "QAT",
     "callingCode": ["974"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -4888,6 +5067,7 @@
   },
   "CG": {
     "currency": ["XAF"],
+    "cca3": "COG",
     "callingCode": ["242"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -4916,6 +5096,7 @@
   },
   "RO": {
     "currency": ["RON"],
+    "cca3": "ROU",
     "callingCode": ["40"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -4943,6 +5124,7 @@
   },
   "RU": {
     "currency": ["RUB"],
+    "cca3": "RUS",
     "callingCode": ["7"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -4970,6 +5152,7 @@
   },
   "RW": {
     "currency": ["RWF"],
+    "cca3": "RWA",
     "callingCode": ["250"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -4997,6 +5180,7 @@
   },
   "RE": {
     "currency": ["EUR"],
+    "cca3": "REU",
     "callingCode": ["262"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -5024,6 +5208,7 @@
   },
   "BL": {
     "currency": ["EUR"],
+    "cca3": "BLM",
     "callingCode": ["590"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -5051,6 +5236,7 @@
   },
   "SH": {
     "currency": ["SHP", "GBP"],
+    "cca3": "SHN",
     "callingCode": ["290", "247"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -5078,6 +5264,7 @@
   },
   "KN": {
     "currency": ["XCD"],
+    "cca3": "KNA",
     "callingCode": ["1869"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -5105,6 +5292,7 @@
   },
   "LC": {
     "currency": ["XCD"],
+    "cca3": "LCA",
     "callingCode": ["1758"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -5132,6 +5320,7 @@
   },
   "MF": {
     "currency": ["EUR"],
+    "cca3": "MAF",
     "callingCode": ["590"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -5159,6 +5348,7 @@
   },
   "PM": {
     "currency": ["EUR"],
+    "cca3": "SPM",
     "callingCode": ["508"],
     "region": "Americas",
     "subregion": "North America",
@@ -5186,6 +5376,7 @@
   },
   "VC": {
     "currency": ["XCD"],
+    "cca3": "VCT",
     "callingCode": ["1784"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -5213,6 +5404,7 @@
   },
   "WS": {
     "currency": ["WST"],
+    "cca3": "WSM",
     "callingCode": ["685"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -5240,6 +5432,7 @@
   },
   "SM": {
     "currency": ["EUR"],
+    "cca3": "SMR",
     "callingCode": ["378"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -5267,6 +5460,7 @@
   },
   "SA": {
     "currency": ["SAR"],
+    "cca3": "SAU",
     "callingCode": ["966"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -5294,6 +5488,7 @@
   },
   "SN": {
     "currency": ["XOF"],
+    "cca3": "SEN",
     "callingCode": ["221"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -5321,6 +5516,7 @@
   },
   "RS": {
     "currency": ["RSD"],
+    "cca3": "SRB",
     "callingCode": ["381"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -5348,6 +5544,7 @@
   },
   "SC": {
     "currency": ["SCR"],
+    "cca3": "SYC",
     "callingCode": ["248"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -5375,6 +5572,7 @@
   },
   "SL": {
     "currency": ["SLL"],
+    "cca3": "SLE",
     "callingCode": ["232"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -5402,6 +5600,7 @@
   },
   "SG": {
     "currency": ["SGD"],
+    "cca3": "SGP",
     "callingCode": ["65"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -5428,6 +5627,7 @@
   },
   "SX": {
     "currency": ["ANG"],
+    "cca3": "SXM",
     "callingCode": ["1721"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -5455,6 +5655,7 @@
   },
   "SK": {
     "currency": ["EUR"],
+    "cca3": "SVK",
     "callingCode": ["421"],
     "region": "Europe",
     "subregion": "Central Europe",
@@ -5482,6 +5683,7 @@
   },
   "SI": {
     "currency": ["EUR"],
+    "cca3": "SVN",
     "callingCode": ["386"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -5509,6 +5711,7 @@
   },
   "SB": {
     "currency": ["SBD"],
+    "cca3": "SLB",
     "callingCode": ["677"],
     "region": "Oceania",
     "subregion": "Melanesia",
@@ -5536,6 +5739,7 @@
   },
   "SO": {
     "currency": ["SOS"],
+    "cca3": "SOM",
     "callingCode": ["252"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -5563,6 +5767,7 @@
   },
   "ZA": {
     "currency": ["ZAR"],
+    "cca3": "ZAF",
     "callingCode": ["27"],
     "region": "Africa",
     "subregion": "Southern Africa",
@@ -5590,6 +5795,7 @@
   },
   "GS": {
     "currency": ["GBP"],
+    "cca3": "SGS",
     "callingCode": ["500"],
     "region": "Antarctic",
     "subregion": "",
@@ -5617,6 +5823,7 @@
   },
   "KR": {
     "currency": ["KRW"],
+    "cca3": "KOR",
     "callingCode": ["82"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -5644,6 +5851,7 @@
   },
   "SS": {
     "currency": ["SSP"],
+    "cca3": "SSD",
     "callingCode": ["211"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -5671,6 +5879,7 @@
   },
   "ES": {
     "currency": ["EUR"],
+    "cca3": "ESP",
     "callingCode": ["34"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -5698,6 +5907,7 @@
   },
   "LK": {
     "currency": ["LKR"],
+    "cca3": "LKA",
     "callingCode": ["94"],
     "region": "Asia",
     "subregion": "Southern Asia",
@@ -5725,6 +5935,7 @@
   },
   "SD": {
     "currency": ["SDG"],
+    "cca3": "SDN",
     "callingCode": ["249"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -5752,6 +5963,7 @@
   },
   "SR": {
     "currency": ["SRD"],
+    "cca3": "SUR",
     "callingCode": ["597"],
     "region": "Americas",
     "subregion": "South America",
@@ -5779,6 +5991,7 @@
   },
   "SJ": {
     "currency": ["NOK"],
+    "cca3": "SJM",
     "callingCode": ["4779"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -5806,6 +6019,7 @@
   },
   "SE": {
     "currency": ["SEK"],
+    "cca3": "SWE",
     "callingCode": ["46"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -5833,6 +6047,7 @@
   },
   "CH": {
     "currency": ["CHF"],
+    "cca3": "CHE",
     "callingCode": ["41"],
     "region": "Europe",
     "subregion": "Western Europe",
@@ -5860,6 +6075,7 @@
   },
   "SY": {
     "currency": ["SYP"],
+    "cca3": "SYR",
     "callingCode": ["963"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -5887,6 +6103,7 @@
   },
   "ST": {
     "currency": ["STD"],
+    "cca3": "STP",
     "callingCode": ["239"],
     "region": "Africa",
     "subregion": "Middle Africa",
@@ -5914,6 +6131,7 @@
   },
   "TW": {
     "currency": ["TWD"],
+    "cca3": "TWN",
     "callingCode": ["886"],
     "region": "Asia",
     "subregion": "Eastern Asia",
@@ -5940,6 +6158,7 @@
   },
   "TJ": {
     "currency": ["TJS"],
+    "cca3": "TJK",
     "callingCode": ["992"],
     "region": "Asia",
     "subregion": "Central Asia",
@@ -5967,6 +6186,7 @@
   },
   "TZ": {
     "currency": ["TZS"],
+    "cca3": "TZA",
     "callingCode": ["255"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -5994,6 +6214,7 @@
   },
   "TH": {
     "currency": ["THB"],
+    "cca3": "THA",
     "callingCode": ["66"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -6021,6 +6242,7 @@
   },
   "TL": {
     "currency": ["USD"],
+    "cca3": "TLS",
     "callingCode": ["670"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -6048,6 +6270,7 @@
   },
   "TG": {
     "currency": ["XOF"],
+    "cca3": "TGO",
     "callingCode": ["228"],
     "region": "Africa",
     "subregion": "Western Africa",
@@ -6075,6 +6298,7 @@
   },
   "TK": {
     "currency": ["NZD"],
+    "cca3": "TKL",
     "callingCode": ["690"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -6102,6 +6326,7 @@
   },
   "TO": {
     "currency": ["TOP"],
+    "cca3": "TON",
     "callingCode": ["676"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -6129,6 +6354,7 @@
   },
   "TT": {
     "currency": ["TTD"],
+    "cca3": "TTO",
     "callingCode": ["1868"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -6156,6 +6382,7 @@
   },
   "TN": {
     "currency": ["TND"],
+    "cca3": "TUN",
     "callingCode": ["216"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -6183,6 +6410,7 @@
   },
   "TR": {
     "currency": ["TRY"],
+    "cca3": "TUR",
     "callingCode": ["90"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -6210,6 +6438,7 @@
   },
   "TM": {
     "currency": ["TMT"],
+    "cca3": "TKM",
     "callingCode": ["993"],
     "region": "Asia",
     "subregion": "Central Asia",
@@ -6237,6 +6466,7 @@
   },
   "TC": {
     "currency": ["USD"],
+    "cca3": "TCA",
     "callingCode": ["1649"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -6264,6 +6494,7 @@
   },
   "TV": {
     "currency": ["AUD"],
+    "cca3": "TUV",
     "callingCode": ["688"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -6291,6 +6522,7 @@
   },
   "UG": {
     "currency": ["UGX"],
+    "cca3": "UGA",
     "callingCode": ["256"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -6318,6 +6550,7 @@
   },
   "UA": {
     "currency": ["UAH"],
+    "cca3": "UKR",
     "callingCode": ["380"],
     "region": "Europe",
     "subregion": "Eastern Europe",
@@ -6345,6 +6578,7 @@
   },
   "AE": {
     "currency": ["AED"],
+    "cca3": "ARE",
     "callingCode": ["971"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -6372,6 +6606,7 @@
   },
   "GB": {
     "currency": ["GBP"],
+    "cca3": "GBR",
     "callingCode": ["44"],
     "region": "Europe",
     "subregion": "Northern Europe",
@@ -6399,6 +6634,7 @@
   },
   "US": {
     "currency": ["USD"],
+    "cca3": "USA",
     "callingCode": ["1"],
     "region": "Americas",
     "subregion": "North America",
@@ -6426,6 +6662,7 @@
   },
   "UM": {
     "currency": ["USD"],
+    "cca3": "UMI",
     "callingCode": [],
     "region": "Americas",
     "subregion": "North America",
@@ -6453,6 +6690,7 @@
   },
   "VI": {
     "currency": ["USD"],
+    "cca3": "VIR",
     "callingCode": ["1340"],
     "region": "Americas",
     "subregion": "Caribbean",
@@ -6480,6 +6718,7 @@
   },
   "UY": {
     "currency": ["UYU"],
+    "cca3": "URY",
     "callingCode": ["598"],
     "region": "Americas",
     "subregion": "South America",
@@ -6507,6 +6746,7 @@
   },
   "UZ": {
     "currency": ["UZS"],
+    "cca3": "UZB",
     "callingCode": ["998"],
     "region": "Asia",
     "subregion": "Central Asia",
@@ -6534,6 +6774,7 @@
   },
   "VU": {
     "currency": ["VUV"],
+    "cca3": "VUT",
     "callingCode": ["678"],
     "region": "Oceania",
     "subregion": "Melanesia",
@@ -6561,6 +6802,7 @@
   },
   "VA": {
     "currency": ["EUR"],
+    "cca3": "VAT",
     "callingCode": ["3906698", "379"],
     "region": "Europe",
     "subregion": "Southern Europe",
@@ -6588,6 +6830,7 @@
   },
   "VE": {
     "currency": ["VEF"],
+    "cca3": "VEN",
     "callingCode": ["58"],
     "region": "Americas",
     "subregion": "South America",
@@ -6615,6 +6858,7 @@
   },
   "VN": {
     "currency": ["VND"],
+    "cca3": "VNM",
     "callingCode": ["84"],
     "region": "Asia",
     "subregion": "South-Eastern Asia",
@@ -6642,6 +6886,7 @@
   },
   "WF": {
     "currency": ["XPF"],
+    "cca3": "WLF",
     "callingCode": ["681"],
     "region": "Oceania",
     "subregion": "Polynesia",
@@ -6669,6 +6914,7 @@
   },
   "EH": {
     "currency": ["MAD", "DZD", "MRO"],
+    "cca3": "ESH",
     "callingCode": ["212"],
     "region": "Africa",
     "subregion": "Northern Africa",
@@ -6696,6 +6942,7 @@
   },
   "YE": {
     "currency": ["YER"],
+    "cca3": "YEM",
     "callingCode": ["967"],
     "region": "Asia",
     "subregion": "Western Asia",
@@ -6723,6 +6970,7 @@
   },
   "ZM": {
     "currency": ["ZMW"],
+    "cca3": "ZMB",
     "callingCode": ["260"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -6750,6 +6998,7 @@
   },
   "ZW": {
     "currency": ["ZWL"],
+    "cca3": "ZWE",
     "callingCode": ["263"],
     "region": "Africa",
     "subregion": "Eastern Africa",
@@ -6777,6 +7026,7 @@
   },
   "AX": {
     "currency": ["EUR"],
+    "cca3": "ALA",
     "callingCode": ["358"],
     "region": "Europe",
     "subregion": "Northern Europe",
