@@ -1,3 +1,5 @@
+import { StyleProp, ViewStyle } from "react-native"
+
 export const CountryCodeList = [
   'AF',
   'AL',
@@ -335,4 +337,8 @@ export type Omit<T, K extends keyof T> = Pick<T, Exclude<keyof T, K>>
 // type guards
 export function isCountryCode(str: string): str is CountryCode {
   return CountryCodeList.some((code) => code === str);
+}
+
+export interface CountryPickerStyles {
+  itemCountry: StyleProp<ViewStyle>
 }

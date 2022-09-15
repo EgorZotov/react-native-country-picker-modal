@@ -9,7 +9,7 @@ import {
 } from 'react-native'
 import { CountryModal } from './CountryModal'
 import { HeaderModal } from './HeaderModal'
-import { Country, CountryCode, FlagType, Region, Subregion } from './types'
+import { CountryPickerStyles, Country, CountryCode, FlagType, Region, Subregion } from './types'
 import { CountryFilter, CountryFilterProps } from './CountryFilter'
 import { FlagButton } from './FlagButton'
 import { useContext } from './CountryContext'
@@ -43,6 +43,7 @@ const renderFilter = (
 interface CountryPickerProps {
   allowFontScaling?: boolean
   countryCode?: CountryCode
+  customStyles?: CountryPickerStyles
   region?: Region
   subregion?: Subregion
   countryCodes?: CountryCode[]
@@ -112,6 +113,7 @@ export const CountryPicker = (props: CountryPickerProps) => {
     excludeCountries,
     placeholder,
     preferredCountries,
+    customStyles,
   } = props
   const [state, setState] = useState<State>({
     visible: props.visible || false,
@@ -179,7 +181,9 @@ export const CountryPicker = (props: CountryPickerProps) => {
       .then(countries => cancel ? null : setCountries(countries))
       .catch(console.warn)
     
-    return () => cancel = true
+    return () => {
+      cancel = true
+    }
   }, [translation, withEmoji])
 
   return (
@@ -225,6 +229,7 @@ export const CountryPicker = (props: CountryPickerProps) => {
             filter,
             filterFocus,
             flatListProps,
+            customStyles
           }}
         />
       </CountryModal>

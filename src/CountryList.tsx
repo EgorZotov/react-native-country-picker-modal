@@ -11,7 +11,7 @@ import {
   Dimensions,
 } from 'react-native'
 import { useTheme } from './CountryTheme'
-import { Country, Omit } from './types'
+import { Country, Omit, CountryPickerStyles } from './types'
 import { Flag } from './Flag'
 import { useContext } from './CountryContext'
 import { CountryText } from './CountryText'
@@ -82,6 +82,7 @@ const Letter = ({ letter, scrollTo }: LetterProps) => {
 
 interface CountryItemProps {
   country: Country
+  customStyles?: CountryPickerStyles,
   withFlag?: boolean
   withEmoji?: boolean
   withCallingCode?: boolean
@@ -97,6 +98,7 @@ const CountryItem = (props: CountryItemProps) => {
     withEmoji,
     withCallingCode,
     withCurrency,
+    customStyles
   } = props
   const extraContent: string[] = []
   if (
@@ -116,7 +118,11 @@ const CountryItem = (props: CountryItemProps) => {
       onPress={() => onSelect(country)}
       {...{ activeOpacity }}
     >
-      <View style={[styles.itemCountry, { height: itemHeight }]}>
+      <View style={[
+        styles.itemCountry, 
+        { height: itemHeight }, 
+        customStyles && customStyles.itemCountry ? customStyles.itemCountry: null 
+      ]}>
         {withFlag && (
           <Flag
             {...{ withEmoji, countryCode: country.cca2, flagSize: flagSize! }}
@@ -146,6 +152,7 @@ const renderItem = (props: Omit<CountryItemProps, 'country'>) => ({
 
 interface CountryListProps {
   data: Country[]
+  customStyles?: CountryPickerStyles,
   filter?: string
   filterFocus?: boolean
   withFlag?: boolean
@@ -180,6 +187,7 @@ export const CountryList = (props: CountryListProps) => {
     filter,
     flatListProps,
     filterFocus,
+    customStyles
   } = props
 
   const flatListRef = useRef<FlatList<Country>>(null)
@@ -218,7 +226,6 @@ export const CountryList = (props: CountryListProps) => {
   return (
     <View style={[styles.container, { backgroundColor }]}>
       <FlatList
-        onScrollToIndexFailed
         ref={flatListRef}
         testID='list-countries'
         keyboardShouldPersistTaps='handled'
@@ -235,6 +242,7 @@ export const CountryList = (props: CountryListProps) => {
           withCallingCode,
           withCurrency,
           onSelect,
+          customStyles,
         })}
         {...{
           data: search(filter, data),

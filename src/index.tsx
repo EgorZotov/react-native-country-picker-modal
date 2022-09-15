@@ -6,6 +6,7 @@ import {
   Country,
   Region,
   Subregion,
+  CountryPickerStyles
 } from './types'
 import { CountryProvider, DEFAULT_COUNTRY_CONTEXT } from './CountryContext'
 import { ThemeProvider, DEFAULT_THEME, Theme } from './CountryTheme'
@@ -13,7 +14,8 @@ import { CountryFilterProps } from './CountryFilter'
 import { StyleProp, ViewStyle, ModalProps, FlatListProps } from 'react-native'
 import { CountryPicker } from './CountryPicker'
 
-interface Props {
+
+export interface CountryPickerProps {
   allowFontScaling?: boolean
   countryCode: CountryCode
   region?: Region
@@ -26,6 +28,7 @@ interface Props {
   modalProps?: ModalProps
   filterProps?: CountryFilterProps
   flatListProps?: FlatListProps<Country>
+  customStyles: CountryPickerStyles,
   placeholder?: string
   withAlphaFilter?: boolean
   withCallingCode?: boolean
@@ -49,7 +52,7 @@ interface Props {
   onClose?(): void
 }
 
-const Main = ({ theme, translation, ...props }: Props) => {
+const Main = ({ theme, translation, ...props }: CountryPickerProps) => {
   return (
     <ThemeProvider theme={{ ...DEFAULT_THEME, ...theme }}>
       <CountryProvider value={{ ...DEFAULT_COUNTRY_CONTEXT, translation }}>
