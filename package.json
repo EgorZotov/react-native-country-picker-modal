@@ -12,6 +12,7 @@
     "start": "yarn config:dev && expo start",
     "start:web": "yarn config:dev && expo start -w --dev",
     "tsc": "node_modules/.bin/tsc --noEmit",
+    "prepare": "yarn build",
     "build": "rm -rf lib/ && node_modules/.bin/tsc && cp -rf ./src/assets ./lib && yarn minify",
     "minify": "yarn minify:emoji",
     "minify:emoji": "./scripts/minify.js ./lib/assets/data/countries-emoji.json",
