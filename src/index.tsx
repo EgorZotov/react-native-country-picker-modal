@@ -17,7 +17,7 @@ import { CountryPicker } from './CountryPicker'
 
 export interface CountryPickerProps {
   allowFontScaling?: boolean
-  countryCode: CountryCode
+  countryCode?: CountryCode
   region?: Region
   subregion?: Subregion
   countryCodes?: CountryCode[]
